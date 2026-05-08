@@ -40,4 +40,4 @@ An attacker can quickly narrow down valid accounts from a wordlist, dramatically
 ## Tools Used
 
 - Burp Suite (Proxy, Intruder)
-- PortSwigger Username & Password Wordlists
+- PortSwigger Username &  Password Wordlists
