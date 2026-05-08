@@ -6,6 +6,7 @@ The application implements two-factor authentication (2FA) but fails to enforce 
 
 ---
 
+
 ## Steps to Reproduce
 
 1. Log in with your own valid credentials and complete the 2FA step. Note the URL you land on after full authentication (e.g., `/my-account`).
