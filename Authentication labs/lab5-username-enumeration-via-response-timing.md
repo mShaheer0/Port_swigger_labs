@@ -6,6 +6,7 @@ The login endpoint processes valid and invalid usernames differently in terms of
 
 ---
 
+
 ## Steps to Reproduce
 
 1. Navigate to the login page and capture a login `POST` request in Burp Suite.
