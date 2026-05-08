@@ -27,6 +27,7 @@ The brute-force protection only counts *consecutive* failures. Inserting a known
 
 ## Impact
 
+
 The IP-based lockout policy provides false assurance. An attacker with any valid account (even a throwaway) can perform an unbounded brute-force attack against any other account.
 
 ---
