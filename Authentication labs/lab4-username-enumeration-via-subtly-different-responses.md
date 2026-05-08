@@ -15,6 +15,7 @@ The login endpoint uses nearly identical error messages for invalid usernames an
 5. Sort or filter results to identify any response where the error message differs subtly (e.g., missing period, extra space, different capitalisation).
 6. Use the identified valid username in a second Intruder attack with a password wordlist.
 7. Log in with the found credentials.
+   
 
 ---
 
