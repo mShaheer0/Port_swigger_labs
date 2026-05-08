@@ -6,6 +6,7 @@ The password reset mechanism does not properly validate that the reset token bel
 
 ---
 
+
 ## Steps to Reproduce
 
 1. Trigger a password reset for your own account and capture the reset request in Burp Suite.
